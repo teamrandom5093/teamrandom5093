@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @teamrandom5093
-- 👀 I’m interested in web and embedded system
-- 🌱 I’m currently learning web and arduino
-- 💞️ I’m looking to collaborate on embedded system
+- 👀 I’m interested in unity development...
 - 📫 mail me at zaheerasghar5093@gmail.com
 
 <!---
